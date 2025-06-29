@@ -1,12 +1,2 @@
----
-
-## 🧰 Requirements
-
-- Python 3.8 or higher
-- `streamlit`
-- `openai` Python SDK
-
-Install the dependencies:
-
-```bash
-pip install streamlit openai
+streamlit
+openai
